@@ -11,6 +11,7 @@ body{
 }
 .authors{
 	position: absolute;
+	text-align: right;
 	right: 25px;
 	bottom:2px;
 	font-style: italic;
